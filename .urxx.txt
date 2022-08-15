@@ -70,3 +70,4 @@ Opera/9.80 (MAUI Runtime; Opera Mini/4.4.39008/176.158; U; en) Presto/2.12.423 V
 Opera/9.80 (Android; Opera Mini/7.5.35721/176.158; U; en) Presto/2.12.423 Version/12.16
 Mozilla/5.0 (iPad; CPU OS 9_3_5 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) OPiOS/16.0.15.124050 Mobile/13G36 Safari/9537.53
 Nokia6630/1.0 (2.39.15) SymbianOS/8.0 Series60/2.6 Profile/MIDP-2.0 Configuration/CLDC-1.1
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.0.16875/958; U; en) Presto/2.4.15
