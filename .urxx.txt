@@ -1,50 +1,50 @@
-Opera/9.80 (iOS; Opera Mini/7.0.73345/28.2555; U; ru) Presto/2.10.229 Version/11.62	 
-SAMSUNG-GT-S5611 Opera/9.80 (J2ME/MIDP; Opera Mini/7.1.34814/184.121; U; tr) Presto/2.12.423 Version/12.16	 
-SAMSUNG-GT-C3592 Opera/9.80 (J2ME/MIDP; Opera Mini/7.1.33680/170.67; U; ru) Presto/2.12.423 Version/12.16	 
-SAMSUNG-GT-S5611 Opera/9.80 (J2ME/MIDP; Opera Mini/7.1.34572/170.58; U; en) Presto/2.12.423 Version/12.16	 
-SAMSUNG-GT-S5611 Opera/9.80 (J2ME/MIDP; Opera Mini/7.1.34572/170.58; U; ru) Presto/2.12.423 Version/12.16	 
-Opera%20Coast/5.03.102982 CFNetwork/1126 Darwin/19.5.0	 
-SAMSUNG-GT-S3800W Opera/9.80 (J2ME/MIDP; Opera Mini/7.1.33628/170.58; U; de) Presto/2.12.423 Version/12.16	 
-SAMSUNG-GT-S5220R Opera/9.80 (J2ME/MIDP; Opera Mini/7.1.32867/170.54; U; es) Presto/2.12.423 Version/12.16	 
-SAMSUNG-GT-S5611 Opera/9.80 (J2ME/MIDP; Opera Mini/7.1.34572/163.93; U; ru) Presto/2.12.423 Version/12.16	 
-SAMSUNG-GT-E2252/E2252XXMA1 Opera/9.80 (J2ME/MIDP; Opera Mini/4.4.29060/163.93; U; ru) Presto/2.12.423 Version/12.16	 
-SAMSUNG-GT-C3322i Opera/9.80 (J2ME/MIDP; Opera Mini/7.1.33886/163.89; U; gu) Presto/2.12.423 Version/12.16	 
-SAMSUNG-GT-C3322/C3322XXMK2 Opera/9.80 (J2ME/MIDP; Opera Mini/6.5.28261/163.89; U; ru) Presto/2.12.423 Version/12.16	 
-SAMSUNG-GT-S5611 Opera/9.80 (J2ME/MIDP; Opera Mini/7.1.34814/163.89; U; en) Presto/2.12.423 Version/12.16	 
-SAMSUNG-GT-E3309I Opera/9.80 (J2ME/MIDP; Opera Mini/4.4.33943/163.89; U; en) Presto/2.12.423 Version/12.16	 
-SAMSUNG-GT-C3322i Opera/9.80 (J2ME/MIDP; Opera Mini/7.1.33886/163.89; U; en) Presto/2.12.423 Version/12.16	 
-SAMSUNG-GT-S5611 Opera/9.80 (J2ME/MIDP; Opera Mini/7.1.34814/83.113; U; pt) Presto/2.12.423 Version/12.16	 
-SAMSUNG-GT-E2200 Opera/9.80 (J2ME/MIDP; Opera Mini/4.4.32208/81.40; U; pt) Presto/2.12.423 Version/12.16	 
-SAMSUNG GT-S3330 Opera/9.80 (J2ME/MIDP; Opera Mini/7.1.32840/108.110; U; pt) Presto/2.12.423 Version/12.16	 
-SAMSUNG GT-S3330 Opera/9.80 (J2ME/MIDP; Opera Mini/7.1.32840/105.76; U; pt) Presto/2.12.423 Version/12.16	 
-SAMSUNG-GT-S3800W Opera/9.80 (J2ME/MIDP; Opera Mini/7.1.32926/113.82; U; pt) Presto/2.12.423 Version/12.16	 
-Mozilla/5.0 (iPod touch; CPU iPhone OS 9_3_3 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) OPiOS/16.0.8.121059 Mobile/13G34 Safari/9537.53	 
-SAMSUNG GT-B2100i Opera/9.80 (J2ME/MIDP; Opera Mini/4.4.33192/77.161; U; pt) Presto/2.12.423 Version/12.16	 
-SAMSUNG-GT-E2200 Opera/9.80 (J2ME/MIDP; Opera Mini/4.4.32878/83.113; U; fr) Presto/2.12.423 Version/12.16	 
-SAMSUNG-GT-S5611 Opera/9.80 (J2ME/MIDP; Opera Mini/7.1.34572/95.90; U; ru) Presto/2.12.423 Version/12.16	 
-SAMSUNG-GT-C3322i Opera/9.80 (J2ME/MIDP; Opera Mini/7.1.33886/90.140; U; uk) Presto/2.12.423 Version/12.16	 
-SAMSUNG-GT-C3592 Opera/9.80 (J2ME/MIDP; Opera Mini/7.1.33680/95.109; U; ru) Presto/2.12.423 Version/12.16	 
-SAMSUNG-GT-C3322/C3322XXLF1 Opera/9.80 (J2ME/MIDP; Opera Mini/6.5.28261/95.109; U; ru) Presto/2.12.423 Version/12.16	 
-SAMSUNG-GT-S5611 Opera/9.80 (J2ME/MIDP; Opera Mini/7.1.34572/90.140; U; ru) Presto/2.12.423 Version/12.16	 
-SAMSUNG-GT-C3322/C3322XXML2 Opera/9.80 (J2ME/MIDP; Opera Mini/6.5.28261/90.169; U; ru) Presto/2.12.423 Version/12.16	 
-SAMSUNG-GT-S5220 Opera/9.80 (J2ME/MIDP; Opera Mini/6.5.28754/90.169; U; en) Presto/2.12.423 Version/12.16	 
-SAMSUNG-GT-C3782/C3782XXMA2 Opera/9.80 (J2ME/MIDP; Opera Mini/6.5.28261/90.169; U; ru) Presto/2.12.423 Version/12.16	 
-SAMSUNG-GT-C3322i Opera/9.80 (J2ME/MIDP; Opera Mini/7.1.33886/90.169; U; ru) Presto/2.12.423 Version/12.16	 
-SAMSUNG-GT-S5611 Opera/9.80 (J2ME/MIDP; Opera Mini/7.1.34572/90.169; U; ru) Presto/2.12.423 Version/12.16	 
-SAMSUNG-GT-C3592 Opera/9.80 (J2ME/MIDP; Opera Mini/7.1.33680/90.176; U; ru) Presto/2.12.423 Version/12.16	 
-SAMSUNG-GT-C3782/C3782XXLE1 Opera/9.80 (J2ME/MIDP; Opera Mini/6.5.28261/90.176; U; ru) Presto/2.12.423 Version/12.16	 
-SAMSUNG-GT-E2252/E2252XXMA1 Opera/9.80 (J2ME/MIDP; Opera Mini/4.4.29060/90.176; U; ru) Presto/2.12.423 Version/12.16	 
-SAMSUNG-GT-C3322i Opera/9.80 (J2ME/MIDP; Opera Mini/7.1.33886/90.176; U; uk) Presto/2.12.423 Version/12.16	 
-SAMSUNG-GT-S5611 Opera/9.80 (J2ME/MIDP; Opera Mini/7.1.34572/90.176; U; ru) Presto/2.12.423 Version/12.16	 
-SAMSUNG-GT-C3322i Opera/9.80 (J2ME/MIDP; Opera Mini/7.1.33886/93.110; U; ru) Presto/2.12.423 Version/12.16	 
-SAMSUNG-GT-S5611 Opera/9.80 (J2ME/MIDP; Opera Mini/7.1.34572/93.110; U; ru) Presto/2.12.423 Version/12.16	 
-SAMSUNG-GT-S5611 Opera/9.80 (J2ME/MIDP; Opera Mini/7.1.34572/93.131; U; ru) Presto/2.12.423 Version/12.16	 
-SAMSUNG-GT-C3592 Opera/9.80 (J2ME/MIDP; Opera Mini/7.1.33680/93.131; U; ru) Presto/2.12.423 Version/12.16	 
-Opera%20Coast/5.04.110603 CFNetwork/1121.2.2 Darwin/19.3.0	 
-Opera%20Coast/5.04.110603 CFNetwork/893.14.2 Darwin/17.3.0	 
-Opera%20Coast/5.04.110603 CFNetwork/808.3 Darwin/16.3.0	 
-Opera%20Coast/5.04.110603 CFNetwork/672.1.15 Darwin/14.0.0	 
-SAMSUNG-GT-C3322i Opera/9.80 (J2ME/MIDP; Opera Mini/7.1.33886/95.90; U; uk) Presto/2.12.423 Version/12.16	 
-SAMSUNG-GT-S5611 Opera/9.80 (J2ME/MIDP; Opera Mini/7.1.34572/95.90; U; uk) Presto/2.12.423 Version/12.16	 
-SAMSUNG-GT-E2252/E2252XXLG1 Opera/9.80 (J2ME/MIDP; Opera Mini/4.4.29060/95.90; U; ru) Presto/2.12.423 Version/12.16	 
-SAMSUNG-GT-C3592 Opera/9.80 (J2ME/MIDP; Opera Mini/7.1.33680/95.90; U; ru) Presto/2.12.423 Version/12.16
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.33576/191.269; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.33576/191.265; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.33576/191.262; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.33576/191.250; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.39001/191.243; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.33576/191.218; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.33576/191.212; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.39014/189.71; U; fr) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.33576/189.71; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.33576/189.67; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.33576/187.21; U; fr) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/6.1.27412/184.121; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.33576/184.121; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.33576/182.104; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.33576/179.156; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.32206/179.156; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.39016/179.147; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/6.1.27412/176.161; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.33576/176.161; U; ar) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.39014/170.67; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.39001/170.67; U; ta) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.39016/170.67; U; ru) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.39001/170.67; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.39001/170.58; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.33576/170.67; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.32206/170.58; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.33576/170.58; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.39012/170.58; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.39012/170.58; U; ru) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.39012/170.58; U; id) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.39014/170.58; U; fr) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.39016/170.58; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.32206/170.58; U; es) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.39010/170.58; U; ru) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.39012/170.58; U; az) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.33576/170.58; U; fr) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.33792/170.58; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.39014/170.58; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/6.1.27412/170.58; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.39016/170.58; U; ru) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.39001/170.54; U; fa) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.39001/170.54; U; uk) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.39014/170.54; U; id) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.33576/170.54; U; fr) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.39012/170.54; U; ru) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.33576/170.54; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.39016/170.54; U; en) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.39016/170.54; U; ru) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.32206/170.51; U; ru) Presto/2.12.423 Version/12.16	
+Opera/9.80 (MAUI Runtime; Opera Mini/4.4.39001/170.51; U; uk) Presto/2.12.423 Version/12.16
